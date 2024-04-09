@@ -19,7 +19,7 @@
     "homepage": "https://github.com/atk4/community",
     "require": {
         "php": ">=7.4 <8.4",
-        "atk4/data": "dev-ui"
+        "atk4/ui": "dev-develop"
     },
     "require-release": {
         "php": ">=7.4 <8.4",
